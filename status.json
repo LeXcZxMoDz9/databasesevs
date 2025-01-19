@@ -1,4 +1,3 @@
 {
-    "maintenance": true,
-    "message": "Bot sedang dalam mode maintenance. Harap kembali nanti."
+    "maintenance": false
 }
